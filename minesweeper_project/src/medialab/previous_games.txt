@@ -1,0 +1,80 @@
+10
+13
+39/150
+Player won
+10
+1
+1/150
+Computer won (Player clicked a mine)
+10
+4
+4/150
+Computer won (Player clicked a mine)
+10
+2
+31/150
+Computer won (Player clicked a mine)
+10
+2
+6/150
+Computer won (Player clicked a mine)
+10
+3
+42/150
+Computer won (Player clicked a mine)
+10
+1
+4/150
+Computer won (Player clicked a mine)
+35
+2
+6/260
+Computer won (Player clicked a mine)
+35
+14
+51/260
+Computer won (Player asked for solution)
+10
+1
+1/150
+Computer won (Player clicked a mine)
+35
+2
+66/260
+Computer won (Player clicked a mine)
+10
+4
+7/150
+Computer won (Player clicked a mine)
+35
+55
+181/260
+Computer won (Player clicked a mine)
+10
+4
+5/150
+Computer won (Player clicked a mine)
+36
+4
+1/260
+Computer won (Player clicked a mine)
+36
+2
+3/260
+Computer won (Player asked for solution)
+35
+3
+30/260
+Computer won (Player clicked a mine)
+35
+16
+7/260
+Computer won (Player clicked a mine)
+35
+75
+172/260
+Player won
+10
+1
+0/150
+Computer won (Player clicked a mine)

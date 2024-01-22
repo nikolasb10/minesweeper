@@ -1,0 +1,39 @@
+.round-red {
+    -fx-background-color: linear-gradient(#ff5400, #be1d00);
+    -fx-background-radius: 50;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-pref-width: 55px;
+    -fx-pref-height: 30px;
+}
+
+.round-blue {
+    -fx-background-color: linear-gradient(#34aee7, #126ecf);
+    -fx-background-radius: 50;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-pref-width: 55px;
+    -fx-pref-height: 30px;
+}
+
+.round-red:hover {
+    -fx-background-color: #ef7b0e;
+    -fx-background-color: linear-gradient(#be1d00, #ef7b0e);
+  }
+
+.round-blue:hover {
+    -fx-background-color: linear-gradient(#00C2FF, #1E0043);
+}
+
+.round-restart {
+    -fx-background-color: linear-gradient(#1E0043, #00C2FF);
+    -fx-background-radius: 50;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-pref-width: 55px;
+    -fx-pref-height: 30px;
+}
+
+.round-restart:hover {
+    -fx-background-color: linear-gradient(#00C2FF, #1E0043);
+}
